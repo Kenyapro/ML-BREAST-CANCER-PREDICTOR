@@ -1,3 +1,9 @@
 pandas
 streamlit
 pickle5
+numpy
+pickle
+plotly
+scikit_learn
+
+altair<5.0.0
